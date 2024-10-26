@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../../../../Users/microwavephone/work/testprepro"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "testprepro"
+	}
+}
